@@ -128,7 +128,7 @@ font-size: 13px;
 #s11{
     position: absolute;
     top: 11px;
-    left: 25px;
+    left: 21px;
     display:block;
     width:100%;
     margin: auto; 
@@ -139,8 +139,7 @@ font-size: 13px;
 
 #s12{
     position: absolute;
-    position: absolute;
-    left: 34px;
+    left: 30px;
     bottom: 5px;
     font-size: 13px;
     color:#F3F3F3;
@@ -156,7 +155,7 @@ font-size: 13px;
 
 #s13{       position: absolute;
     top: 11px;
-    left: 25px;
+    left: 21px;
     display:block;
     width:100%;
     margin: auto; 
@@ -164,15 +163,14 @@ font-size: 13px;
     color: rgb(134 134 136);}
 #s14{ 
     position: absolute;
-    position: absolute;
-    left: 34px;
+    left: 30px;
     bottom: 5px;
     font-size: 13px;
     color:#F3F3F3;
 }
 #s15{        position: absolute;
     top: 11px;
-    left: 25px;
+    left: 21px;
     display:block;
     width:100%;
     margin: auto; 
@@ -180,8 +178,7 @@ font-size: 13px;
     color: rgb(134 134 136);
 }
 #s16{    position: absolute;
-    position: absolute;
-    left: 34px;
+    left: 30px;
     bottom: 5px;
     font-size: 13px;
     color:#F3F3F3;}
@@ -228,7 +225,7 @@ font-size: 13px;
     margin: auto;
     position: absolute;
     top: 35px;
-    left: 27px;
+    left: 23px;
     width: 30px;
 }
 #pic7{    
@@ -237,7 +234,7 @@ font-size: 13px;
     margin: auto;
     position: absolute;
     top: 35px;
-    left: 27px;
+    left: 23px;
     width: 30px;}
 #pic8{    
     display: block;
@@ -245,7 +242,7 @@ font-size: 13px;
     margin: auto;
     position: absolute;
     top: 35px;
-    left: 27px;
+    left: 23px;
     width: 30px;}
 /* #l1{
     display: inline-block;
